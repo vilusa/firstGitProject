@@ -37,4 +37,4 @@ After those you need to make "Pull Request"
 
 # If you want to add new line to this project:
 
-You can open an issue.
+You can open an issue first.
