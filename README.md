@@ -4,6 +4,11 @@ This document created for understand how git works.
 
 # Steps which are using for editing this document.
 
+```shell
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
+
 First you need to fork this project.
 
 
